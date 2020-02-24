@@ -35,4 +35,8 @@ def kesha_maker(array_strings)
   new_strings
 end
 
-
+def find_a(array_strings)
+  array_strings.select do
+    start_with?("a")
+  end
+end
