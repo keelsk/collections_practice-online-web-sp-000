@@ -42,6 +42,7 @@ def find_a(array_strings)
 end
 
 def sum_array(array_integers)
-  array_integers.inject do 
+  array_integers.inject do |sum,n|
+    
   end
 end
