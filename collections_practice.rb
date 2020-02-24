@@ -40,3 +40,8 @@ def find_a(array_strings)
     array.start_with?("a")
   end
 end
+
+def sum_array(array_integers)
+  array_integers.inject do 
+  end
+end
