@@ -4,6 +4,6 @@ end
 
 def sort_array_dec(array_integers)
   array_integers.sort do |a,b|
-    b <=> a
+    b < a
   end
 end
