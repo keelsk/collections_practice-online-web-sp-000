@@ -25,3 +25,9 @@ end
 def reverse_array(array_integers)
   array_integers.reverse()
 end
+
+def kesha_maker(array_strings)
+  array_strings.each |word|
+  
+  end
+end
