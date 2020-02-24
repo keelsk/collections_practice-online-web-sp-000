@@ -43,6 +43,6 @@ end
 
 def sum_array(array_integers)
   array_integers.inject do |sum,n|
-    
+    sum + n
   end
 end
